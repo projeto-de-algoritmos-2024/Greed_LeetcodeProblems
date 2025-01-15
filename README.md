@@ -17,7 +17,10 @@ Questão 1090. Largest Values From Labels (Dificuldade: Média). Disponível em 
 Questão 1489. Find Critical And Pseudo-Critical Edges in Minimun Spanning Tree (Dificuldade : Difícil). Disponível em : ([1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/));<br>
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Screenshot da Questão 1090:<br>
+![Screenshot Questão 1090](assets/1090image.jpeg)
+Screenshot da Questão 1489:<br>
+![Screenshot Questão 1489]()
 
 ## Instalação 
 **Linguagem**: Python (Questões xxx e xxx).<br>
