@@ -13,8 +13,8 @@
 O projeto consiste em resolver 4 questões da plataforma LeetCode, sendo duas dífíceis e duas médias. A definição de fácil, médio e difícil é concebida pela plataforma.
 
 Questões Implementadas:
-Questão xxx (Dificuldade: xxx). Disponível em : (xxx);<br>
-Questão xxx (Dificuldade : xxx). Disponível em : (xxx);<br>
+Questão 1090. Largest Values From Labels (Dificuldade: Média). Disponível em : ([1090](https://leetcode.com/problems/largest-values-from-labels/description/));<br>
+Questão 1489. Find Critical And Pseudo-Critical Edges in Minimun Spanning Tree (Dificuldade : Difícil). Disponível em : ([1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/));<br>
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
@@ -25,9 +25,12 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Para a execução do projeto deve ser instalado o python 3.11.4 ou superior.
 
 ## Uso 
-Para rodar as questões xxx, xxx e xxx deste projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
+Para rodar as questões 1090, 1489 e xxx deste projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
 ```
-python xxx.py
+python 1090.LargestValuesFrommLabels.py
+```
+```
+python 1489.FindCriticalAndPseudoCriticalEdgesInMinimunSpanningTree.py
 ```
 
 ## Vídeo
