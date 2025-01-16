@@ -1,4 +1,4 @@
-# Questão Difícil 1090. Largest Values From Labels - Algoritmo de Kruskal
+# Questão Difícil 1489. Find Critical And Pseudo-Critical Edges in Minimum Spanning Tree - Algoritmo de Kruskal
 class Solution(object):
     def findCriticalAndPseudoCriticalEdges(self, n, edges):
         """
