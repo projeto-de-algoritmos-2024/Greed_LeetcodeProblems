@@ -32,10 +32,10 @@ Para a execução do projeto deve ser instalado o python 3.11.4 ou superior.
 ## Uso 
 Para rodar as questões 1090, 1489 e xxx deste projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
 ```
-python 1090.LargestValuesFrommLabels.py
+python 1090.LargestValuesFromLabels.py
 ```
 ```
-python 1489.FindCriticalAndPseudoCriticalEdgesInMinimunSpanningTree.py
+python 1489.FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.py
 ```
 
 ## Vídeo
