@@ -16,11 +16,13 @@ Questões Implementadas:
 Questão 1090. Largest Values From Labels (Dificuldade: Média). Disponível em : ([1090](https://leetcode.com/problems/largest-values-from-labels/description/));<br>
 Questão 1489. Find Critical And Pseudo-Critical Edges in Minimun Spanning Tree (Dificuldade : Difícil). Disponível em : ([1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/));<br>
 
+Para a solução da questão 1090 foi utilizado o algoritmo de Huffman, enquanto que para a questão 1489 foi utilizado o algoritmo de Kruskal. Os algoritmos vistos em sala de aula foram implementados com pequenas adaptações para servirem como solução das atividades dessa entrega.
+
 ## Screenshots
 Screenshot da Questão 1090:<br>
 ![Screenshot Questão 1090](assets/1090image.jpeg)
 Screenshot da Questão 1489:<br>
-![Screenshot Questão 1489]()
+![Screenshot Questão 1489](assets/1489image.jpeg)
 
 ## Instalação 
 **Linguagem**: Python (Questões xxx e xxx).<br>
