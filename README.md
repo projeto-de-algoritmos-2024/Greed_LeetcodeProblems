@@ -63,4 +63,4 @@ python 757.SetIntersectionSizeAtLeastTwo.py
 ```
 
 ## Vídeo
-Disponível em: xxx
+Disponível em: [aqui](./README.md)
