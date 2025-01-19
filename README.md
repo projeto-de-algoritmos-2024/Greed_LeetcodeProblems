@@ -63,4 +63,8 @@ python 757.SetIntersectionSizeAtLeastTwo.py
 ```
 
 ## Vídeo
-Disponível em: [aqui](./README.md)
+
+
+Questão 2406. Divide Intervals Into Minimum Number of Groups (Dificuldade: Média). Disponível em : ([2406](https://youtu.be/lR9CG2R-x4w));<br>
+
+Questão 757. Set Intersection Size At Least Two (Dificuldade: Difícil). Disponível em : ([757](https://youtu.be/dd-Dmv4kGuE?si=2EeEOxqgOGWS_vkW));<br>
