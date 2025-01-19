@@ -25,7 +25,9 @@ Para a solução da questão 1090 foi utilizado o algoritmo de Huffman, enquanto
 
 Questão 2406. Divide Intervals Into Minimum Number of Groups (Dificuldade: Média). Disponível em : ([2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/?utm_source=chatgpt.com));<br>
 
-Para a solução da questão 2406 foi utilizado o algoritmo de com técnicas em algoritmos ambiciosos, Interval Scheduling, com uma certa adaptação ao problema que será explicada em vídeo.
+Questão 757. Set Intersection Size At Least Two (Dificuldade: Difícil). Disponível em : ([757](https://leetcode.com/problems/set-intersection-size-at-least-two/description/));<br>
+
+Para a solução da questão 2406 foi utilizado o algoritmo de com técnicas em algoritmos ambiciosos, Interval Scheduling, com uma certa adaptação ao problema que será explicada em vídeo. Da mesma forma no problema 757 foi utilizado a técnica de Interval Scheduling.
 
 
 ## Screenshots
@@ -35,6 +37,8 @@ Screenshot da Questão 1489:<br>
 ![Screenshot Questão 1489](assets/1489image.jpeg)
 Screenshot da Questão 2406:<br>
 ![Screenshot Questão 2406](assets/2406image.png)
+Screenshot da Questão 757:<br>
+![Screenshot Questão 757](assets/757image.png)
 
 ## Instalação 
 **Linguagem**: Python (Questões xxx e xxx).<br>
@@ -52,6 +56,10 @@ python 1489.FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.py
 
 ```
 python 2406.DivideIntervalsIntoMinimumNumberofGroups.py
+```
+
+```
+python 757.SetIntersectionSizeAtLeastTwo.py
 ```
 
 ## Vídeo
