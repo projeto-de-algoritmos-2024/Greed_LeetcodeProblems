@@ -41,7 +41,7 @@ Screenshot da Questão 757:<br>
 ![Screenshot Questão 757](assets/757image.png)
 
 ## Instalação 
-**Linguagem**: Python (Questões xxx e xxx).<br>
+**Linguagem**: Python.<br>
 **Framework**: Não há frameworks para este projeto.<br>
 Para a execução do projeto deve ser instalado o python 3.11.4 ou superior.
 
