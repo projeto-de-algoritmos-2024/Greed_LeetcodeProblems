@@ -63,7 +63,9 @@ python 757.SetIntersectionSizeAtLeastTwo.py
 ```
 
 ## Vídeo
+Questão 1090. Largest Values From Labels (Dificuldade: Média). Disponível em : ([1090](https://youtu.be/AhZYtvbnJ-k?si=_c4IHhQd5KzDEmAo));<br>
 
+Questão 1489. Find Critical And Pseudo-Critical Edges in Minimun Spanning Tree (Dificuldade : Difícil). Disponível em : ([1489](https://youtu.be/AhZYtvbnJ-k?si=_c4IHhQd5KzDEmAo));<br>
 
 Questão 2406. Divide Intervals Into Minimum Number of Groups (Dificuldade: Média). Disponível em : ([2406](https://youtu.be/lR9CG2R-x4w));<br>
 
